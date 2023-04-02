@@ -1,1 +1,1 @@
-# django-admin
+learning django for fun
